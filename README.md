@@ -1,0 +1,1 @@
+This project focuses on customer segmentation by analyzing purchase frequency and total amount spent. It employs machine learning techniques to group customers into distinct segments based on their purchasing behavior, providing valuable insights for targeted marketing strategies.
